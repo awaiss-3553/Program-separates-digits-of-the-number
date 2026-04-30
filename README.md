@@ -1,1 +1,1 @@
-# Program-separates-digits-of-the-number
+Program separates digits of the number
